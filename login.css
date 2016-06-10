@@ -1,0 +1,14 @@
+.login-wrapper {
+	width: 350px;
+	margin: 50px auto;
+}
+
+.wraper {
+	width: 200px;
+	border: 2px solid black;
+	margin: 20px;
+}
+
+.red-border{
+	border: 2px solid red;
+}
